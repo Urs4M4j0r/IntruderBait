@@ -48,7 +48,8 @@ This Python program acts as an SSH honeypot, designed to monitor SSH login attem
 | -p  | Print and record the IP address of the inbound connection attempt  |
 | -t  | Print and record the date and time of the inbound connection attempt  |
 | -d  | Record entries which have duplicate username:password. |
-   <br><br>
+
+<br><br>
 
 
 While running passed usernames and password will be printed. Additionally, they will be logged in the logins.txt file in format "username:password".<br>
