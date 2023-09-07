@@ -5,7 +5,7 @@
 
 ## Overview
 
-This Python program acts as an SSH honeypot, designed to attract and monitor SSH login attempts. It generates a simulated SSH server that records login attempts, providing insight into potential security threats and unauthorized access attempts.
+This Python program acts as an SSH honeypot, designed to monitor SSH login attempts. It runs a simulated SSH server that records login attempt usernames, passwords, and IP addresses. This recorded information can be used to provide insights into potential security threats and unauthorized access attempts as where they originate.
 
 ## Features
 
@@ -14,6 +14,8 @@ This Python program acts as an SSH honeypot, designed to attract and monitor SSH
 - Thread-safe handling of multiple connection attempts.
 - Easy to configure and deploy as a honeypot for SSH attacks.
 - Command line argument -p to select if the IP addresses of inbound connections should be recorded.
+- Command line argument -t to select if the date and time of inbound connections should be recorded.
+- Command line argument -d to select if duplicate username and password combinations should be written.
 
 ## Prerequisites
 
@@ -52,7 +54,10 @@ While running passed usernames and password will be printed. Additionally, they 
 <br>
 ##### - Without -p:<br>
 ![image](https://github.com/Urs4M4j0r/IntruderBait/assets/46537737/048c3635-f20e-4276-811d-a72f48878e14)
-
+<br><br>
+##### - With -p -t:<br>
+![image](https://github.com/Urs4M4j0r/IntruderBait/assets/46537737/1dcb2732-aad6-4aed-8f9e-7236eee718db)
+<br>
 
 
 ### Note: the output file logins.txt will not write duplicate username password combinations unlike the console.
