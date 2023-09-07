@@ -33,13 +33,13 @@ This Python program acts as an SSH honeypot, designed to attract and monitor SSH
      <code>pip3 install paramiko</code>
       <br><br>
 3. <b>OPTIONAL:</b> Update the port number on line 10 to whichever port you want to listen on.<br><br>
-4. Run the script:
-     <em>Without recording IP addresses:</em><br>
+4. Run the script:<br>
+     <em>Without recording IP addresses:</em><br><br>
      <code>python3 IntruderBait.py</code>
-   <br>
-     <em>With recording IP addresses:</em><br>
+   <br><br>
+     <em>With recording IP addresses:</em><br><br>
       <code>python3 IntruderBait.py -p</code>
-   <br>
+   <br><br>
      
    <br><br>
 
