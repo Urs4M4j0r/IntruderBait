@@ -43,11 +43,11 @@ This Python program acts as an SSH honeypot, designed to monitor SSH login attem
       <code>python3 IntruderBait.py -p</code>
    <br><br>
    
-| Arguments     | Description   |
-| ------------- | ------------- |
-| -p  | Print and record the IP address of the inbound connection attempt  |
-| -t  | Print and record the date and time of the inbound connection attempt  |
-| -d  | Record entries which have duplicate username:password. |
+| Arguments     | Description                                                           |
+| ------------- | --------------------------------------------------------------------- |
+|      -p       | Print and record the IP address of the inbound connection attempt     |
+|      -t       | Print and record the date and time of the inbound connection attempt  |
+|      -d       | Record entries which have duplicate username:password values.         |
 
 <br><br>
 
