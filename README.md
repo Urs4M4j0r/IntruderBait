@@ -54,7 +54,7 @@ While running passed usernames and password will be printed. Additionally, they 
 <br>
 ##### - Without -p:<br>
 ![image](https://github.com/Urs4M4j0r/IntruderBait/assets/46537737/048c3635-f20e-4276-811d-a72f48878e14)
-<br><br>
+<br>
 ##### - With -p -t:<br>
 ![image](https://github.com/Urs4M4j0r/IntruderBait/assets/46537737/1dcb2732-aad6-4aed-8f9e-7236eee718db)
 <br>
