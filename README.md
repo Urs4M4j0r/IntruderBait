@@ -40,4 +40,12 @@ This Python program acts as an SSH honeypot, designed to attract and monitor SSH
 While running passed usernames and password will be printed. Additionally, they will be logged in the logins.txt file in format "username:password".<br>
 
 ### Example console output:<br>
-![image](https://github.com/Urs4M4j0r/IntruderBait/assets/46537737/67255021-c24e-4579-bab7-987806082bf7)
+*With -p:
+![image](https://github.com/Urs4M4j0r/IntruderBait/assets/46537737/c1ca34fd-a2da-4523-9c66-98edc049aae5)
+
+*Without -p:
+![image](https://github.com/Urs4M4j0r/IntruderBait/assets/46537737/048c3635-f20e-4276-811d-a72f48878e14)
+
+
+
+### Note: the output file logins.txt will not write duplicate username password combinations unlike the console.
