@@ -26,7 +26,7 @@ This Python program acts as an SSH honeypot, designed to monitor SSH login attem
 
 1. ### Clone the repository or download the script:
 
-   <code>git clone https://github.com/Urs4M4j0r//IntruderBait.git</code><br><br>
+   <code>git clone https://github.com/Urs4M4j0r/IntruderBait.git</code><br><br>
 
 2. ### Install required packages:
      
