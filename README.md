@@ -22,7 +22,7 @@ This Python program acts as an SSH honeypot, designed to attract and monitor SSH
 
 ## Usage
 
-1. Clone the repository or download the script:
+1. #### Clone the repository or download the script:
 
    <code>git clone https://github.com/Urs4M4j0r/ssh-honeypot.git</code><br><br>
 
