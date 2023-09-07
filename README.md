@@ -35,8 +35,8 @@ This Python program acts as an SSH honeypot, designed to monitor SSH login attem
      <code>pip3 install paramiko</code>
       <br><br>
 3. ### <b>OPTIONAL:</b> Update the port number on line 10 to whichever port you want to listen on.<br><br>
-4. ### Run the script:<br><br>
-     Example: <code>python3 IntruderBait.py -p -t</code>
+4. ### Run the script:<br>
+     Example: <code>python3 IntruderBait.py -p -t</code><br>
    
 | Arguments     | Description                                                           |
 | ------------- | --------------------------------------------------------------------- |
