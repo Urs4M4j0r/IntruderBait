@@ -36,12 +36,7 @@ This Python program acts as an SSH honeypot, designed to monitor SSH login attem
       <br><br>
 3. ### <b>OPTIONAL:</b> Update the port number on line 10 to whichever port you want to listen on.<br><br>
 4. ### Run the script:<br><br>
-     <em>Without recording IP addresses:</em><br><br>
-     <code>python3 IntruderBait.py</code>
-   <br><br>
-     <em>With recording IP addresses:</em><br><br>
-      <code>python3 IntruderBait.py -p</code>
-   <br><br>
+     Example: <code>python3 IntruderBait.py -p -t</code>
    
 | Arguments     | Description                                                           |
 | ------------- | --------------------------------------------------------------------- |
