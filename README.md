@@ -42,6 +42,12 @@ This Python program acts as an SSH honeypot, designed to monitor SSH login attem
      <em>With recording IP addresses:</em><br><br>
       <code>python3 IntruderBait.py -p</code>
    <br><br>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+   
 | Arguments     | Description   |
 | ------------- | ------------- |
 | -p  | Content Cell  |
