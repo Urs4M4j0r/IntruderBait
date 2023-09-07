@@ -24,4 +24,20 @@ This Python program acts as an SSH honeypot, designed to attract and monitor SSH
 1. Clone the repository or download the script:
 
    ```bash
-   git clone https://github.com/yourusername/ssh-honeypot.git
+   git clone https://github.com/Urs4M4j0r/ssh-honeypot.git
+
+2. Install required packages:
+   
+     pip3 install -r requirements.txt   
+     <em>or alternatively</em> 
+     pip3 install paramiko
+
+3. <b>OPTIONAL:</b> Update the port number on line 10 to whichever port you want to listen on.
+
+4. Run the script:
+     python3 IntruderBait.py
+
+
+While running passed usernames and password will be printed. Additionally, they will be logged in the logins.txt file in format "username:password".
+
+   
