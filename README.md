@@ -27,8 +27,8 @@ This Python program acts as an SSH honeypot, designed to attract and monitor SSH
 
 2. Install required packages:
      
-     <code>pip3 install -r requirements.txt</code>
-     <em>or alternatively</em> 
+     <code>pip3 install -r requirements.txt</code><br>
+     <em>or alternatively</em><br>
      <code>pip3 install paramiko</code>
 
 3. <b>OPTIONAL:</b> Update the port number on line 10 to whichever port you want to listen on.
