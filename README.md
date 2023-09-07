@@ -23,14 +23,13 @@ This Python program acts as an SSH honeypot, designed to attract and monitor SSH
 
 1. Clone the repository or download the script:
 
-   ```bash
-   git clone https://github.com/Urs4M4j0r/ssh-honeypot.git
+   <code>git clone https://github.com/Urs4M4j0r/ssh-honeypot.git</code>
 
 2. Install required packages:
-   
-     pip3 install -r requirements.txt   
+     
+     <code>pip3 install -r requirements.txt</code>
      <em>or alternatively</em> 
-     pip3 install paramiko
+     <code>pip3 install paramiko</code>
 
 3. <b>OPTIONAL:</b> Update the port number on line 10 to whichever port you want to listen on.
 
