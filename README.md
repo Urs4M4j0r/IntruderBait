@@ -1,4 +1,4 @@
-# SSH Honeypot
+# IntruderBait - SSH Honeypot
 
 ![Honeypot](https://img.shields.io/badge/Honeypot-SSH-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-brightgreen)
