@@ -20,7 +20,7 @@ This Python program acts as an SSH honeypot, designed to monitor SSH login attem
 ## Prerequisites
 
 - Python 3.x
-- Paramiko library (`pip install paramiko`)
+- Paramiko
 
 ## Usage
 
